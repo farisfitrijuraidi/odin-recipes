@@ -1,6 +1,6 @@
 # Odin Recipes Project
 
-This project is a basic recipe website created as part of The Odin Project's foundations course. The goal was to build a website that contains links to a few different recipes. It's a s
+This project is a basic recipe website created as part of The Odin Project's foundations course. The goal was to build a website that contains links to a few different recipes. It's a simple site, but it's built using the core HTML skills I've learned so far.
 
 ## Skills Demonstrated
 
